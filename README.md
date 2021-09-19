@@ -87,6 +87,22 @@ Range of frequencies which PLL can lock when started from unlocked condition. Ca
 Settling time
 
 The time taken by the PLL to lock from an unlocked state is called the settling time. It depends on how quickly charge pump rises to the stable value.
+
+PLL Specification
+----
+Corner TT
+
+Supply Voltage 1.8V
+
+Room Temperature
+
+Input Fmin = 5MHz ;  Fmax = 12.5MHz
+
+Multiplier  8x
+
+Jitter(rms) <~ 20ns
+
+Duty cycle = 50%
                                              
 Tool setup and design flow:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -220,12 +236,15 @@ Post Layout simulation
 -----
 PFD simulation result:
 
-![image](https://user-images.githubusercontent.com/90973886/133933298-2373c5a7-f347-4532-96d8-59ed2f8838d1.png)
+![image](https://user-images.githubusercontent.com/90973886/133937475-0d678074-1113-4073-9fd3-9da4aa2089f4.png)
+
+![image](https://user-images.githubusercontent.com/90973886/133937482-9ddbab65-a34d-48d7-a683-d9a0ac2a8cc5.png)
+
 
 
 Tapeout
 ---
-Tapeout is the final result of the design process for integrated circuits or printed circuit boards before they are sent for manufacturing.
+Tapeout means to sned our final design to the fab. Is the final result of the design process for integrated circuits or printed circuit boards before they are sent for manufacturing.
 
 Acknowledgement
 ---
