@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/90973886/133938795-3c930617-f378-44ab-8ffa-f647c84e2737.png)
+
+
 Phase Locked Loop IC Design on Open Source Google Skywater 130nm
 -----------------------------------------------------------------------------------------
 The workshop on Phase Locked Loop IC Design conducted on 18-19 September 2021
@@ -239,6 +242,13 @@ PFD simulation result:
 ![image](https://user-images.githubusercontent.com/90973886/133937475-0d678074-1113-4073-9fd3-9da4aa2089f4.png)
 
 ![image](https://user-images.githubusercontent.com/90973886/133937482-9ddbab65-a34d-48d7-a683-d9a0ac2a8cc5.png)
+
+PLL simulation result
+
+![image](https://user-images.githubusercontent.com/90973886/133938737-b2d2ff36-ab7e-4a8e-8d87-81b1af07bf35.png)
+
+![image](https://user-images.githubusercontent.com/90973886/133938747-a0540058-69f5-42ee-a004-3b2d997c26ae.png)
+
 
 
 
