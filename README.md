@@ -229,8 +229,8 @@ layout for PLL is shown below:
 
 Parasitics Extraction
 ---
-To extract the capacitance effect information parasitics extraction, press i button to select the whole design and then give "extract all" command.
-For postlayout simulation the extraction file has to be converted to spice file using ext2spice command.
+To extract the capacitance effect information parasitics extraction, press i to select the whole design and then give "extract all" command.
+For postlayout simulation the extraction file has to be converted to spice file using "ext2spice" command.
 
 ![image](https://user-images.githubusercontent.com/90973886/133932484-02fcfec9-54db-4041-9583-16c50b587533.png)
 
@@ -254,7 +254,7 @@ PLL simulation result
 
 Tapeout
 ---
-Tapeout means to sned our final design to the fab. Is the final result of the design process for integrated circuits or printed circuit boards before they are sent for manufacturing.
+Tapeout means to send our final design to the fab. Is the final result of the design process for integrated circuits or printed circuit boards before they are sent for manufacturing.
 
 Acknowledgement
 ---
